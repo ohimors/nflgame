@@ -1,28 +1,32 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ohimors/nflgame is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ohimors/nflgame is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ohimors/nflgame](https://github.com/ohimors/nflgame)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|11/13/23 <br/>Report generated|
+|7<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -80,11 +84,11 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[beautifulsoup4](https://pypi.org/beautifulsoup4)|N/A|11/18/13|Andrew Gallant |MIT|N/A|
-|[httplib2](https://pypi.org/httplib2)|N/A|11/18/13|Andrew Gallant |MIT|N/A|
-|[pytz](https://pypi.org/pytz)|N/A|11/18/13|Andrew Gallant |MIT|N/A|
+|[beautifulsoup4](https://pypi.org/project/beautifulsoup4)|N/A|11/18/13|Andrew Gallant |MIT|N/A|
+|[httplib2](https://pypi.org/project/httplib2)|N/A|11/18/13|Andrew Gallant |MIT|N/A|
+|[pytz](https://pypi.org/project/pytz)|N/A|11/18/13|Andrew Gallant |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
